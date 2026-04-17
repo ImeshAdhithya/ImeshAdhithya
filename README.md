@@ -72,18 +72,26 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src=".giticons/java.svg" alt="java" width="40" height="40"/></a>
 <!--python-->
 </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src=".giticons/python.svg" alt="python" width="40" height="40"/></a>
+<!--reactnative-->
+</a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src=".giticons/react-original-wordmark.svg" alt="reactnative" width="40" height="40"/></a>
 <!--html-->
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src=".giticons/html5.svg" alt="html5" width="40" height="40"/></a>
 <!--css-->
 <a href="https://www.w3schools.com/Css/" target="_blank" rel="noreferrer"> <img src=".giticons/css3.svg" alt="css3" width="40" height="40"/></a>
+<!--javascript-->
+<a href="https://www.javascripttutorial.net/" target="_blank" rel="noreferrer"> <img src=".giticons/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<!--typescript-->
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src=".giticons/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 <!--oracle-->
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src=".giticons/oracle.svg" alt="oracle" width="40" height="40"/></a>
 <!--micorsoftsqlserver-->
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src=".giticons/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/></a>
 <!--git-->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src=".giticons/git.svg" alt="git" width="40" height="40"/></a>
-<!--firebaase-->
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src=".giticons/firebase.svg" alt="firebase" width="40" height="40"/></a>
+<!--docker-->
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src=".giticons/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+<!--kubernetes-->
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src=".giticons/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/></a>
 <!--unity-->
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src=".giticons/unity3d-icon.svg" alt="unity" width="40" height="40"/></a> </p>
 <!--end of languages and tools--> 
