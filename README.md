@@ -74,14 +74,12 @@ I'm drawn to projects that combine solid engineering fundamentals with practical
 <img src="assets/techstackbanner.png" alt="tech" width="800px">
 
 ## ☁️ Cloud
----
 
 ![AWS](https://img.shields.io/badge/AWS%20%28/Learning%29-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure%20%28/Learning%29-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GCP%20%28/Learning%29-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ## 🚀 DevOps & Platform
----
 
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes%20%28/Learning%29-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -94,13 +92,11 @@ I'm drawn to projects that combine solid engineering fundamentals with practical
 ![GitLab CI](https://img.shields.io/badge/GitLabCI%20%28/Learning%29-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ## 📊 Observability
----
 
 ![Prometheus](https://img.shields.io/badge/Prometheus%20%28/Learning%29-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana%20%28/Learning%29-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
 ## 🤖 Languages & Tools
----
 
 <p align="center">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src=".giticons/c.svg" alt="c" width="40" height="40"/></a>
