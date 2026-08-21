@@ -113,6 +113,8 @@ I'm drawn to projects that combine solid engineering fundamentals with practical
 <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src=".giticons/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>
 </p>
 
+</div>
+
 ---
 
 # 🧠 Current Focus
