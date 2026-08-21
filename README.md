@@ -35,16 +35,16 @@ I'm drawn to projects that combine solid engineering fundamentals with practical
 <tr>
 <td align="center">
 
-<a href="https://github-stats-extended.vercel.app/api?username=ImeshAdhithya&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&cache_seconds=0">
-<img src="https://github-stats-extended.vercel.app/api?username=ImeshAdhithya&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&cache_seconds=0" width="100%" />
+<a href="https://github-stats-extended.vercel.app/api?username=ImeshAdhithya&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&cache_seconds=1800">
+<img src="https://github-stats-extended.vercel.app/api?username=ImeshAdhithya&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&cache_seconds=1800" width="100%" />
 </a>
 
 </td>
 
 <td align="center">
 
-<a href="https://github-stats-extended.vercel.app/api/top-langs?username=ImeshAdhithya&layout=compact&langs_count=4&hide_values=true&theme=transparent&count_private=true&cache_seconds=0">
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=ImeshAdhithya&layout=compact&langs_count=4&hide_values=true&theme=transparent&count_private=true&cache_seconds=0" width="100%" />
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=ImeshAdhithya&layout=compact&langs_count=4&hide_values=true&theme=transparent&count_private=true&cache_seconds=1800">
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=ImeshAdhithya&layout=compact&langs_count=4&hide_values=true&theme=transparent&count_private=true&cache_seconds=1800" width="100%" />
 </a>
 
 </td>
