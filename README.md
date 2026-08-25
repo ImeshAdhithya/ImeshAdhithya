@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/githubbannerme.png" alt="banner" width="800px">
+<img src="assets/githubbannername.png" alt="banner" width="800px">
 
 # Imesh Adhithya
 
