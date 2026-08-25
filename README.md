@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/githubbannername.png" alt="banner" width="800px">
+<img src="assets/" alt="banner" width="800px">
 
 # Imesh Adhithya
 
@@ -71,7 +71,7 @@ I'm drawn to projects that combine solid engineering fundamentals with practical
 
 <div align="center">
 
-<img src="assets/techstackbanner.png" alt="tech" width="800px">
+<img src="assets/" alt="tech" width="800px">
 
 ## ☁️ Cloud
 
@@ -168,7 +168,7 @@ I'm drawn to projects that combine solid engineering fundamentals with practical
 
 <div align="center">
 
-<img src="assets/learninghubbanner.png" alt="hub" width="800px">
+<img src="assets/" alt="hub" width="800px">
 
 | Resource                   | Description                      |
 | -------------------------- | -------------------------------- |
