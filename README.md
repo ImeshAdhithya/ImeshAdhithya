@@ -57,15 +57,6 @@ I'm drawn to projects that combine solid engineering fundamentals with practical
 </a>
 </td>
 
-<td align="center">
-
-<a href="https://github.com/ImeshAdhithya/figma-learning">
-<img src="https://github-stats-extended.vercel.app/api/pin?username=ImeshAdhithya&repo=ImeshAdhithya/figma-learning&show_owner=true&theme=transparent" width="100%" />
-</a>
-
-</td>
-</tr>
-
 </table>
 
 </div>
