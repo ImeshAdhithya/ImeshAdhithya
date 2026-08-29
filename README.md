@@ -6,7 +6,7 @@
 
 ### **SE Student • DevOps Learner • AI Automation Enthusiast**
 
-`DevOps` • `CI/CD` • `Docker` • `Linux` • `AI Automation & Intergration` • `AI Infrastructure` • `Cloud(Learning)`
+`DevOps` • `Linux` • `GenAI` • `AI Agents` •  `AI Automation & Intergration` • `AI Infrastructure` • `Cloud` • `MCP`
 
 ### _Learning to build automated, cloud-ready systems through DevOps and AI_
 
