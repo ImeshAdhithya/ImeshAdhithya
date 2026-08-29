@@ -121,45 +121,29 @@ I'm drawn to projects that combine solid engineering fundamentals with practical
 
 <table>
   <tr>
-    <td>Platform Engineering</td>
-    <td>Internal Developer Platforms (IDP)</td>
-    <td>DevOps Automation</td>
+    <td>Software Engineering</td>
+    <td>Linux & Terminal</td>
+    <td>Docker</td>
   </tr>
   <tr>
-    <td>Cloud Native Infrastructure</td>
     <td>Kubernetes</td>
-    <td>GitOps</td>
+    <td>Git & GitHub Workflows</td>
+    <td>CI/CD Pipelines</td>
   </tr>
   <tr>
-    <td>MLOps</td>
-    <td>LLMOps</td>
-    <td>AI Infrastructure</td>
+    <td>Cloud Fundamentals</td>
+    <td>DevOps Fundamentals</td>
+    <td>API Integration</td>
+  </tr>
+  <tr>
+    <td>AI & Automation Concepts</td>
+    <td>ML</td>
+    <td>DL</td>
   </tr>
   <tr>
     <td>Generative AI</td>
-    <td>AI Agents</td>
-    <td>Agentic AI Systems</td>
-  </tr>
-  <tr>
-    <td>Multi-Agent Architectures</td>
-    <td>Model Context Protocol (MCP)</td>
-    <td>Agent2Agent (A2A)</td>
-  </tr>
-  <tr>
-    <td>LangGraph</td>
-    <td>LangChain</td>
-    <td>Google ADK</td>
-  </tr>
-  <tr>
-    <td>Context Engineering</td>
-    <td>Prompt Engineering</td>
-    <td>Retrieval-Augmented Generation (RAG)</td>
-  </tr>
-  <tr>
-    <td>AI Automation</td>
-    <td>Developer Experience (DevEx)</td>
-    <td></td>
-  </tr>
+    <td>AI Application</td>
+    <td>AI Agent</td>
 </table>
 
 ---
@@ -169,21 +153,13 @@ I'm drawn to projects that combine solid engineering fundamentals with practical
 <div align="center">
 
 <img src="assets/learningbanner.png" alt="hub" width="800px">
+<br><br>
 
-| Resource                   | Description                      |
-| -------------------------- | -------------------------------- |
-| 📚 Docs Portal             | DevOps, Cloud & AI documentation |
-| 💻 Projects Hub            | Hands-on real-world projects     |
-| ☸️ Kubernetes Learning     | Beginner → CKA                   |
-| 🐳 Docker to Kubernetes    | Complete container journey       |
-| 🤖 MLOps Generator         | Production-ready MLOps templates |
-| ⚙️ DevOps Generator        | DevOps project scaffolding       |
-| ☁️ AWS Infra Generator     | AWS infrastructure templates     |
-| 📊 Monitoring in a Box     | Observability stack              |
-| 🤖 AI Platform Engineering | AI infrastructure resources      |
-| 🧠 Agentic AI              | AI Agent learning resources      |
-| 🔗 MCP Learning            | Model Context Protocol resources |
-| 📦 Repositories Hub        | Open-source projects             |
+
+| Resource                    | Description                              |
+| ---------------------------- | ----------------------------------------- |
+| 🎨 Figma Learning            | UI/UX design practice, beginner → practical designer |
+| 📚 API Learning Journey      | Hands-on API learning, basics → real-world integrations |
 
 </div>
 
@@ -191,6 +167,6 @@ I'm drawn to projects that combine solid engineering fundamentals with practical
 
 <div align="center">
 
-### 💙
+### 💚 Small consistent steps toward DevOps + AI
 
 </div>
