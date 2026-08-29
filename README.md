@@ -38,7 +38,6 @@ I'm drawn to projects that combine solid engineering fundamentals with practical
 <a href="https://github-stats-extended.vercel.app/api?username=ImeshAdhithya&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&cache_seconds=1800">
 <img src="https://github-stats-extended.vercel.app/api?username=ImeshAdhithya&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&cache_seconds=1800" width="100%" />
 </a>
-
 </td>
 
 <td align="center">
@@ -56,9 +55,15 @@ I'm drawn to projects that combine solid engineering fundamentals with practical
 <a href="https://github.com/ImeshAdhithya/api-learning-journey">
 <img src="https://github-stats-extended.vercel.app/api/pin?username=ImeshAdhithya&repo=ImeshAdhithya/api-learning-journey&show_owner=true&theme=transparent" width="100%" />
 </a>
-
 </td>
 
+<td align="center">
+
+<a href="https://github.com/ImeshAdhithya/figma-learning">
+<img src="https://github-stats-extended.vercel.app/api/pin?username=ImeshAdhithya&repo=ImeshAdhithya/figma-learning&show_owner=true&theme=transparent" width="100%" />
+</a>
+
+</td>
 </tr>
 
 </table>
