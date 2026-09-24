@@ -35,15 +35,15 @@ I'm drawn to projects that combine solid engineering fundamentals with practical
 <tr>
 <td align="center">
 
-<a href="https://github-stats-extended.vercel.app/api?username=ImeshAdhithya&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&cache_seconds=1800">
-<img src="https://github-stats-extended.vercel.app/api?username=ImeshAdhithya&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&cache_seconds=1800" width="100%" />
+<a href="https://github-stats-extended-frontend-liart.vercel.app/api?username=ImeshAdhithya&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&theme=transparent">
+<img src="https://github-stats-extended-frontend-liart.vercel.app/api?username=ImeshAdhithya&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&theme=transparent" width="100%" />
 </a>
 </td>
 
 <td align="center">
 
-<a href="https://github-stats-extended.vercel.app/api/top-langs?username=ImeshAdhithya&layout=compact&langs_count=4&hide_values=true&theme=transparent&count_private=true&cache_seconds=1800">
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=ImeshAdhithya&layout=compact&langs_count=4&hide_values=true&theme=transparent&count_private=true&cache_seconds=1800" width="100%" />
+<a href="https://github-stats-extended-frontend-liart.vercel.app/api/top-langs?username=ImeshAdhithya&layout=compact&langs_count=4&hide_values=true&count_private=true&cache_seconds=1800&theme=transparent">
+<img src="https://github-stats-extended-frontend-liart.vercel.app/api/top-langs?username=ImeshAdhithya&layout=compact&langs_count=4&hide_values=true&count_private=true&cache_seconds=1800&theme=transparent" width="100%" />
 </a>
 </td>
 </tr>
@@ -52,14 +52,14 @@ I'm drawn to projects that combine solid engineering fundamentals with practical
 <td align="center">
 
 <a href="https://github.com/ImeshAdhithya/api-learning-journey">
-<img src="https://github-stats-extended.vercel.app/api/pin?username=ImeshAdhithya&repo=ImeshAdhithya/api-learning-journey&show_owner=true&theme=transparent&v=1" width="100%" />
+<img src="https://github-stats-extended-frontend-liart.vercel.app/api/pin?username=ImeshAdhithya&repo=ImeshAdhithya/api-learning-journey&show_owner=true&theme=transparent&v=1" width="100%" />
 </a>
 </td>
 
 <td align="center">
 
 <a href="https://github.com/ImeshAdhithya/figma-learning">
-<img src="https://github-stats-extended.vercel.app/api/pin?username=ImeshAdhithya&repo=ImeshAdhithya/figma-learning&show_owner=true&theme=transparent&v=1" width="100%" />
+<img src="https://github-stats-extended-frontend-liart.vercel.app/api/pin?username=ImeshAdhithya&repo=ImeshAdhithya/figma-learning&show_owner=true&theme=transparent&v=1" width="100%" />
 </a>
 </td>
 
