@@ -10,8 +10,9 @@
 
 ### _Learning to build automated, cloud-ready systems through DevOps and AI_
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imesh-adhithya/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ImeshAdhithya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imesh-adhithya/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square-badge&logo=github&logoColor=white)](https://github.com/ImeshAdhithya)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square-badge&logo=discord&logoColor=white)](https://discord.com/users/845955709874470943)
 
 </div>
 
@@ -103,16 +104,39 @@ I'm drawn to projects that combine solid engineering fundamentals with practical
 <p align="center">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src=".giticons/c.svg" alt="c" width="40" height="40"/></a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src=".giticons/java.svg" alt="java" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src=".giticons/python.svg" alt="python" width="40" height="40"/></a>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src=".giticons/react-original-wordmark.svg" alt="reactnative" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src=".giticons/py.svg" alt="python" width="40" height="40"/></a>
+<a href="https://www.phptutorial.net/" target="_blank" rel="noreferrer"><img src=".giticons/php.svg" alt="php" width="40" height="40"/></a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src=".giticons/html5.svg" alt="html5" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/Css/" target="_blank" rel="noreferrer"><img src=".giticons/css3.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://www.javascripttutorial.net/" target="_blank" rel="noreferrer"><img src=".giticons/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src=".giticons/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src=".giticons/oracle.svg" alt="oracle" width="40" height="40"/></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src=".giticons/tailwind.svg" alt="tailwind" width="40" height="40"/></a>
+<a href="https://www.javascripttutorial.net/" target="_blank" rel="noreferrer"><img src=".giticons/js.svg" alt="javascript" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src=".giticons/ts.svg" alt="typescript" width="40" height="40"/></a>
+<a href="https://nginx.org/en/docs/beginners_guide.html" target="_blank" rel="noreferrer"><img src=".giticons/nginx.svg" alt="nginx" width="40" height="40"/></a>
+<a href="https://nodejs.org/learn" target="_blank" rel="noreferrer"><img src=".giticons/nodejs.svg" alt="nodejs" width="40" height="40"/></a>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src=".giticons/react.svg" alt="react" width="40" height="40"/></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src=".giticons/express.svg" alt="express" width="40" height="40"/></a>
+<a href="https://www.mysqltutorial.org/" target="_blank" rel="noreferrer"><img src=".giticons/mysql.svg" alt="mysql" width="40" height="40"/></a>
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src=".giticons/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/></a>
+<a href="https://www.postgresql.org/docs/online-resources/" target="_blank" rel="noreferrer"><img src=".giticons/postgres.svg" alt="postgres" width="40" height="40"/></a>
+<a href="https://supabase.com/docs/guides/getting-started" target="_blank" rel="noreferrer"><img src=".giticons/supabase.svg" alt="supabase" width="40" height="40"/></a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src=".giticons/aws.svg" alt="aws" width="40" height="40"/></a>
+<a href="https://firebase.google.com/community/learn" target="_blank" rel="noreferrer"><img src=".giticons/firebase.svg" alt="firebase" width="40" height="40"/></a>
+<a href="https://www.docker.com/101-tutorial/" target="_blank" rel="noreferrer"><img src=".giticons/docker.svg" alt="docker" width="40" height="40"/></a>
+<a href="https://kubernetes.io/training/" target="_blank" rel="noreferrer"><img src=".giticons/kubernetes.svg" alt="kubernetes" width="40" height="40"/></a>
+<a href="https://kubernetes.io/training/" target="_blank" rel="noreferrer"><img src=".giticons/terraform.svg" alt="terraform" width="40" height="40"/></a>
+<a href="https://www.redhat.com/en/topics/automation/learning-ansible-tutorial" target="_blank" rel="noreferrer"><img src=".giticons/ansible.svg" alt="ansible" width="40" height="40"/></a>
+<a href="https://www.jenkins.io/doc/tutorials/" target="_blank" rel="noreferrer"><img src=".giticons/jenkins.svg" alt="jenkins" width="40" height="40"/></a>
+<a href="https://learning.postman.com/" target="_blank" rel="noreferrer"><img src=".giticons/postman.svg" alt="postman" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src=".giticons/git.svg" alt="git" width="40" height="40"/></a>
+<a href="https://learn.github.com/product-guides/github-actions/get-started/lets-get-started-with-github-actions" target="_blank" rel="noreferrer"><img src=".giticons/githubactions.svg" alt="githubactions" width="40" height="40"/></a>
+<a href="https://docs.gitlab.com/tutorials/" target="_blank" rel="noreferrer"><img src=".giticons/gitlab.svg" alt="gitlab" width="40" height="40"/></a>
+<a href="https://prometheus.io/docs/tutorials/" target="_blank" rel="noreferrer"><img src=".giticons/prometheus.svg" alt="prometheus" width="40" height="40"/></a>
+<a href="https://grafana.com/docs/learning-hub/" target="_blank" rel="noreferrer"><img src=".giticons/grafana.svg" alt="grafana" width="40" height="40"/></a>
+<a href="https://training.linuxfoundation.org/training/introduction-to-linux/" target="_blank" rel="noreferrer"><img src=".giticons/linux.svg" alt="linux" width="40" height="40"/></a>
+<a href="https://www.figma.com/community/design-tutorials/figma" target="_blank" rel="noreferrer"><img src=".giticons/figma.svg" alt="figma" width="40" height="40"/></a>
+<a href="https://www.jetbrains.com/help/idea/instance-tutorials.html" target="_blank" rel="noreferrer"><img src=".giticons/idea.svg" alt="idea" width="40" height="40"/></a>
 <a href="https://unity.com/" target="_blank" rel="noreferrer"><img src=".giticons/unity3d-icon.svg" alt="unity" width="40" height="40"/></a>
+
 </p>
 
 </div>
