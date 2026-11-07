@@ -36,8 +36,8 @@ I'm drawn to projects that combine solid engineering fundamentals with practical
 <tr>
 <td align="center">
 
-<a href="https://github-stats-extended-frontend-liart.vercel.app/api?username=ImeshAdhithya&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&theme=transparent">
-<img src="https://github-stats-extended-frontend-liart.vercel.app/api?username=ImeshAdhithya&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&theme=transparent" width="100%" />
+<a href="github-stats-extended-three-red.vercel.app/api?username=ImeshAdhithya&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&theme=transparent">
+<img src="github-stats-extended-three-red.vercel.app/api?username=ImeshAdhithya&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800&theme=transparent" width="100%" />
 </a>
 </td>
 
