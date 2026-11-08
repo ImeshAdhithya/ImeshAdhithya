@@ -13,9 +13,6 @@
 <a href="https://www.linkedin.com/in/imesh3/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imesh-adhithya/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square-badge&logo=github&logoColor=white)](https://github.com/ImeshAdhithya)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square-badge&logo=discord&logoColor=white)](https://discord.com/users/845955709874470943)
 
 </div>
 
