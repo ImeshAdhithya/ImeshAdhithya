@@ -10,7 +10,7 @@
 
 ### _Learning to build automated, cloud-ready systems through DevOps and AI_
 
-<a href="https://www.linkedin.com/in/imesh3/" target="_blank">
+<a href="https://www.linkedin.com/in/imesh-adhithya/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
