@@ -103,7 +103,7 @@ I'm drawn to projects that combine solid engineering fundamentals with practical
 
 <p align="center">
 <a href="https://www.cprogramming.com/" target="_blank" rel="noopener noreferrer"><img src="./.giticons/c.svg" alt="c" width="40" height="40"/></a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src=".giticons/java.svg" alt="java" width="40" height="40"/></a>
+<a href="https://www.java.com" target="_blank" rel="noopener noreferrer"><img src="./.giticons/java.svg" alt="java" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src=".giticons/py.svg" alt="python" width="40" height="40"/></a>
 <a href="https://www.phptutorial.net/" target="_blank" rel="noreferrer"><img src=".giticons/php.svg" alt="php" width="40" height="40"/></a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src=".giticons/html5.svg" alt="html5" width="40" height="40"/></a>
