@@ -43,8 +43,8 @@ I'm drawn to projects that combine solid engineering fundamentals with practical
 
 <td align="center">
 
-<a href="https://github-stats-extended.vercel.app/api/top-langs?username=ImeshAdhithya&layout=compact&langs_count=6&hide_values=true&count_private=true&include_all_commits=true&cache_seconds=1800&theme=dark">
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=ImeshAdhithya&layout=compact&langs_count=6&hide_values=true&count_private=true&include_all_commits=true&cache_seconds=1800&theme=dark" width="100%" />
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=ImeshAdhithya&layout=compact&langs_count=6&hide_values=true&count_private=true&include_all_commits=true&cache_seconds=1800&theme=dark&v=1">
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=ImeshAdhithya&layout=compact&langs_count=6&hide_values=true&count_private=true&include_all_commits=true&cache_seconds=1800&theme=dark&v=1" width="100%" />
 </a>
 </td>
 </tr>
@@ -53,14 +53,14 @@ I'm drawn to projects that combine solid engineering fundamentals with practical
 <td align="center">
 
 <a href="https://github.com/ImeshAdhithya/api-learning-journey">
-<img src="https://github-stats-extended.vercel.app/api/pin?username=ImeshAdhithya&repo=ImeshAdhithya%2Fapi-learning-journey&show_owner=true&disable_animations=false&theme=dark&v=2" width="100%" />
+<img src="https://github-stats-extended.vercel.app/api/pin?username=ImeshAdhithya&repo=ImeshAdhithya%2Fapi-learning-journey&show_owner=true&disable_animations=false&theme=dark&v=1" width="100%" />
 </a>
 </td>
 
 <td align="center">
 
 <a href="https://github.com/ImeshAdhithya/figma-learning">
-<img src="https://github-stats-extended.vercel.app/api/pin?username=ImeshAdhithya&repo=ImeshAdhithya%2Ffigma-learning&show_owner=true&disable_animations=false&theme=dark&v=2" width="100%" />
+<img src="https://github-stats-extended.vercel.app/api/pin?username=ImeshAdhithya&repo=ImeshAdhithya%2Ffigma-learning&show_owner=true&disable_animations=false&theme=dark&v=1" width="100%" />
 </a>
 </td>
 
