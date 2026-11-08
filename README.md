@@ -53,14 +53,14 @@ I'm drawn to projects that combine solid engineering fundamentals with practical
 <td align="center">
 
 <a href="https://github.com/ImeshAdhithya/api-learning-journey">
-<img src="https://github-stats-extended.vercel.app/api/pin?username=ImeshAdhithya&repo=ImeshAdhithya%2Fapi-learning-journey&show_owner=true&disable_animations=false&theme=dark&v=1" width="100%" />
+<img src="https://github-stats-extended.vercel.app/api/pin?username=ImeshAdhithya&repo=ImeshAdhithya%2Fapi-learning-journey&show_owner=true&disable_animations=false&theme=dark&v=2" width="100%" />
 </a>
 </td>
 
 <td align="center">
 
 <a href="https://github.com/ImeshAdhithya/figma-learning">
-<img src="https://github-stats-extended.vercel.app/api/pin?username=ImeshAdhithya&repo=ImeshAdhithya%2Ffigma-learning&show_owner=true&disable_animations=false&theme=dark&v=1" width="100%" />
+<img src="https://github-stats-extended.vercel.app/api/pin?username=ImeshAdhithya&repo=ImeshAdhithya%2Ffigma-learning&show_owner=true&disable_animations=false&theme=dark&v=2" width="100%" />
 </a>
 </td>
 
