@@ -43,8 +43,8 @@ I'm drawn to projects that combine solid engineering fundamentals with practical
 
 <td align="center">
 
-<a href="https://github-stats-extended.vercel.app/api/top-langs?username=ImeshAdhithya&layout=compact&langs_count=6&hide_values=true&include_all_commits=true&cache_seconds=1800&theme=chartreuse-dark&v=6">
-<img src="https://github-stats-extended.vercel.app/api/top-langs?username=ImeshAdhithya&langs_count=6&hide_values=true&include_all_commits=true&cache_seconds=1800&theme=chartreuse-dark&v=6" width="100%" />
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=ImeshAdhithya&layout=compact&langs_count=6&hide_values=true&include_all_commits=true&cache_seconds=1800&theme=chartreuse-dark&v=7">
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=ImeshAdhithya&langs_count=6&hide_values=true&include_all_commits=true&cache_seconds=1800&theme=chartreuse-dark&v=7" width="100%" />
 </a>
 </td>
 </tr>
